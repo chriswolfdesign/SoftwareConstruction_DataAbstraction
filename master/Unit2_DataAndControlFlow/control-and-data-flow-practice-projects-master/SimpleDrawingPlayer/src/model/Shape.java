@@ -8,7 +8,7 @@ import java.awt.*;
 
 public class Shape {
 
-    private static final Color PLAYING_COLOR = new Color(32, 35, 230);
+    private static final Color PLAYING_COLOR = new Color(230, 158, 60);
 
     private int x;
     private int y;
